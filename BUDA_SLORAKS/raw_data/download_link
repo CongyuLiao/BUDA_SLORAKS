@@ -1,0 +1,6 @@
+The download link of the raw data: https://drive.google.com/file/d/1MGC6FzQ17RXClumAo2o3K8Xfk_rw7esp/view?usp=sharing
+
+The folder of the raw data includes:
+a. "gcc_k_ap_pa_dif1rf1.mat": raw kspace data of circular EPI with AP and PA shots
+b. "sens_gre_gcc.mat" : coil sensitivity maps
+c. "esp.mat": variable echo-spacing (per ky-line) of the circular EPI data.
