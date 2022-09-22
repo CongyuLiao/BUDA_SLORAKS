@@ -23,8 +23,8 @@ The data size is ~ 128 MB, and the scan protocol of BUDA-circular-EPI is :
     Two interleaved shots with AP and PA phase-encoding
     In-plane acceleration factor:4 per shot
     no multiband acceleration
-    phase-encoding partial-Fourier factor: 2/3 (66%)
-    readout partial-Fourier factor: 2/3 (66%)
+    phase-encoding partial-Fourier factor: 5/8
+    readout partial-Fourier factor: 5/8
     b= 0 & 1000 s/mm^2
 ```
 **Tested with:**
