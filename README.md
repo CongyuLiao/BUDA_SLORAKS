@@ -27,6 +27,8 @@ The data size is ~ 128 MB, and the scan protocol of BUDA-circular-EPI is :
     readout partial-Fourier factor: 5/8
     b= 0 & 1000 s/mm^2
 ```
+The multiband version of BUDA S-LORAKS is available to download: https://drive.google.com/drive/folders/1xiu5qpXeReIPwd-4ijAiDPiEQ6rzUY-q?usp=sharing
+
 **Tested with:**
 ```
     MATLAB 2019a
