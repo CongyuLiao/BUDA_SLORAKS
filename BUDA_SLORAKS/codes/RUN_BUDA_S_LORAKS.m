@@ -19,7 +19,7 @@ ky = length(esp);
 t_pa = [0:AccY:AccY*ky-1]'.*esp*1e-4;
 t_ap = t_pa(end:-1:1);
 
-for dif = 18   
+for dif = 1   
 
     load(['gcc_k_ap_pa_dif' num2str(dif) 'rf1.mat'])
 
