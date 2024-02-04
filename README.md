@@ -1,7 +1,7 @@
 # buda_sloraks
 S-LORAKS reconstruction for BUDA-circular-EPI data
 
-Demonstration code for the NeuroImage paper,  *Liao C, et al. High-fidelity mesoscale in-vivo diffusion MRI through gSlider-BUDA and circular EPI with S-LORAKS reconstruction. NeuroImage. 2023;275:120168.*
+Demonstration code for the NeuroImage paper,  *Liao C, et al. High-fidelity mesoscale in-vivo diffusion MRI through gSlider-BUDA and circular EPI with S-LORAKS reconstruction. NeuroImage. 2023;275:120168.* https://www.sciencedirect.com/science/article/pii/S1053811923003191
 
 The datasets presented in this repository are from a BUDA-circular-EPI acquisition with blip-up and -down shots. 
 
