@@ -1,7 +1,7 @@
 # buda_sloraks
 S-LORAKS reconstruction for BUDA-circular-EPI data
 
-Demonstration code for the ISMRM abstract,  *Liao, C., et al. "High-fidelity submillimeter-isotropic-resolution diffusion MRI through gSlider-BUDA and circular EPI with S-LORAKS reconstruction. No.0042, ISMRM 2022, London, UK."*
+Demonstration code for the NeuroImage paper,  *Liao C, et al. High-fidelity mesoscale in-vivo diffusion MRI through gSlider-BUDA and circular EPI with S-LORAKS reconstruction. NeuroImage. 2023;275:120168.*
 
 The datasets presented in this repository are from a BUDA-circular-EPI acquisition with blip-up and -down shots. 
 
@@ -43,7 +43,7 @@ If possible, please include the following citations if you find our reconstructi
     [1] Haldar JP. Low-rank modeling of local k-space neighborhoods (LORAKS) for constrained MRI. IEEE Trans Med Imaging. 2014
     [2] Kim TH et al. LORAKS makes better SENSE: phase‐constrained partial fourier SENSE reconstruction without phase calibration. Magn Reson Med. 2017
     [3] Liao C, et al. Distortion‐free, high‐isotropic‐resolution diffusion MRI with gSlider BUDA‐EPI and multicoil dynamic B0 shimming. Magn Reson Med. 2021 
-    [4] Liao C, et al. High-fidelity submillimeter-isotropic-resolution diffusion MRI through gSlider-BUDA and circular EPI with S-LORAKS reconstruction. No.0042, ISMRM 2022, London, UK
+    [4] Liao C, et al. High-fidelity mesoscale in-vivo diffusion MRI through gSlider-BUDA and circular EPI with S-LORAKS reconstruction. NeuroImage. 2023 
 ```
 
 
